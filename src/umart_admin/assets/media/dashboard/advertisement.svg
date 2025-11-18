@@ -1,0 +1,37 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="20.141"
+  height="17.363"
+  viewBox="0 0 20.141 17.363"
+>
+    <path
+    data-name="Path 16411"
+    d="M16.707 3.732a1 1 0 0 0-1.727-.683A9.424 9.424 0 0 1 8.1 6.028H4.763A3.512 3.512 0 0 0 1.25 9.541v.937a3.512 3.512 0 0 0 3.513 3.513H8.1a9.424 9.424 0 0 1 6.88 2.979 1 1 0 0 0 1.727-.683V3.732z"
+    fill="currentColor"
+    transform="translate(-1.25 -2.733)"
+  />
+    <path
+    data-name="Path 16412"
+    d="M21.858 9.75h-1.405a.7.7 0 0 0 0 1.405h1.405a.7.7 0 0 0 0-1.405z"
+    transform="translate(-2.419 -3.176)"
+    fill="currentColor"
+  />
+    <path
+    data-name="Path 16413"
+    d="m19.175 14.419.994.994a.7.7 0 1 0 .994-.994l-.994-.994a.7.7 0 1 0-.994.994z"
+    transform="translate(-2.37 -3.396)"
+    fill="currentColor"
+  />
+    <path
+    data-name="Path 16414"
+    d="m20.169 7.413.994-.994a.7.7 0 1 0-.994-.994l-.994.994a.7.7 0 1 0 .994.994z"
+    transform="translate(-2.37 -2.89)"
+    fill="currentColor"
+  />
+    <path
+    data-name="Path 16415"
+    d="m4.446 15.718.633 3.826A1.639 1.639 0 0 0 6.7 20.916h2.191a1.171 1.171 0 0 0 1.047-1.695l-.551-1.1a.238.238 0 0 1-.019-.049l-.568-2.31c-.164-.009-4.182-.024-4.353-.044z"
+    transform="translate(-1.452 -3.554)"
+    fill="currentColor"
+  />
+</svg>

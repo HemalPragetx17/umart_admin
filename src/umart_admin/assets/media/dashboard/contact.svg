@@ -1,0 +1,19 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="16.953"
+  height="12.562"
+  viewBox="0 0 16.953 12.562"
+>
+    <path
+    data-name="Path 16424"
+    d="M17.945 5.774A2.082 2.082 0 0 0 15.892 4H3.109a2.082 2.082 0 0 0-2.053 1.774L9.5 11.238z"
+    transform="translate(-1.024 -4)"
+    fill="currentColor"
+  />
+    <path
+    data-name="Path 16425"
+    d="M9.783 14.771a.565.565 0 0 1-.614 0L1 9.486v7.377a2.087 2.087 0 0 0 2.085 2.085h12.783a2.087 2.087 0 0 0 2.085-2.085V9.485z"
+    transform="translate(-1 -6.385)"
+    fill="currentColor"
+  />
+</svg>

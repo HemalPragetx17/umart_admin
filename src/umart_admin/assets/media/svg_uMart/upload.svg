@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="168" viewBox="0 0 168 168">
+    <g data-name="Group 21778">
+        <g data-name="Rectangle 4561" style="fill:#fff;stroke:#e0e0df;stroke-width:.5px">
+            <rect width="168" height="168" rx="10" style="stroke:none"/>
+            <rect x=".25" y=".25" width="167.5" height="167.5" rx="9.75" style="fill:none"/>
+        </g>
+        <path d="M42.75 20.25h-18v-18a2.25 2.25 0 0 0-4.5 0v18h-18a2.25 2.25 0 0 0 0 4.5h18v18a2.25 2.25 0 1 0 4.5 0v-18h18a2.25 2.25 0 1 0 0-4.5zm0 0" transform="translate(62 62)" style="fill:#7c7c7c;stroke:#7c7c7c"/>
+    </g>
+</svg>
