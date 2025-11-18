@@ -280,4 +280,4 @@ export const NonVeg = 2;
 
 
 // export const UEAT_URL = 'http://localhost:5173'
-// export const UEAT_URL = 'http://dev.admin.ueat.umart.tz'
+export const UEAT_URL = 'http://dev.admin.ueat.umart.tz'
