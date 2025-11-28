@@ -8,16 +8,7 @@
   <meta name="description" content="UMart Admin" />
 
   <!-- Security Headers -->
-  <meta http-equiv="Content-Security-Policy"
-    content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; font-src 'self' data:; connect-src 'self' https:; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'; upgrade-insecure-requests;" />
-  <meta http-equiv="X-Frame-Options" content="DENY" />
-  <meta http-equiv="X-Content-Type-Options" content="nosniff" />
-  <meta name="referrer" content="strict-origin-when-cross-origin" />
-  <meta http-equiv="Permissions-Policy"
-    content="geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()" />
-  <meta http-equiv="Cross-Origin-Embedder-Policy" content="require-corp" />
-  <meta http-equiv="Cross-Origin-Opener-Policy" content="same-origin" />
-  <meta http-equiv="Cross-Origin-Resource-Policy" content="same-origin" />
+  <!-- Security headers must be set via HTTP response headers (nginx/apache). -->
 
   <title>UMart Admin</title>
   <link rel="shortcut icon" href="%PUBLIC_URL%/media/logos/favicon.png" />
